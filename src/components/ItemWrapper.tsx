@@ -18,6 +18,8 @@ export function ItemWrapper({ index, children }: ItemWrapperProps) {
       >
         {children}
       </LinearGradient>
+
+      
     )
   
   return (
